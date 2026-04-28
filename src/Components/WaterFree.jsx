@@ -1,6 +1,6 @@
 import React from 'react';
 import vectorfrd from "../assets/veed.svg";
-import waterFree from "../assets/WaterFree.svg";
+import waterFree from "../assets/Flow.svg";
 
 const WaterFree = () => {
   return (
